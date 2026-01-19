@@ -10,20 +10,18 @@ This is the 1° entry of a personal project for consolidating PANDAS cleaning da
 
 ________
 
-Si estoiy utilizando KAGGLE 
-
 📌 Diferencia CLAVE entre kagglehub y Kaggle CLI
-🔹 kagglehub (lo que acabas de usar)
+
+🔹 kagglehub
 
 ✔️ Cómodo
 ✔️ Funciona desde el notebook
 ❌ Pierdes control de dónde quedan los datos
 ❌ Menos reproducible
 ❌ Más difícil de explicar en proyectos reales / equipos
-
 👉 Útil para experimentos rápidos, no ideal para aprender estructura.
 
-🔹 Kaggle CLI (lo que veníamos haciendo)
+🔹 Kaggle CLI 
 
 ✔️ Descargas exactamente donde tú decides
 ✔️ Estructura clara de proyecto
