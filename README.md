@@ -33,3 +33,8 @@ Si estoiy utilizando KAGGLE
 👉 Esto es lo que sí se espera en Data Science real.
 
 Incoming notes in process. 
+
+_________
+
+
+
